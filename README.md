@@ -24,7 +24,7 @@ v::country('numeric')->validate('840'); //true
 
 This rule is case sensitive.
 
-All data of this rule was extrated from [GeoNames][] which is licensed under a
+All data of this rule was extracted from [GeoNames][] which is licensed under a
 [Creative Commons Attribution 3.0 License][].
 
 ## CountrySubdivision
@@ -42,7 +42,7 @@ v::countrySubdivision('US')->validate('CA'); //true
 
 This rule is case sensitive.
 
-All data of this rule was extrated from [GeoNames][] which is licensed under a
+All data of this rule was extracted from [GeoNames][] which is licensed under a
 [Creative Commons Attribution 3.0 License][].
 
 [Creative Commons Attribution 3.0 License]: http://creativecommons.org/licenses/by/3.0 "Creative Commons Attribution 3.0 License"
